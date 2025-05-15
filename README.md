@@ -31,12 +31,12 @@ To view the project locally, you can either open the project files in your code 
 ### Tasks
 
 Inside `index.html`:
-- [ ] Update the HTML tags so that they are correct and semantic
+- [X] Update the HTML tags so that they are correct and semantic
 
 
 ### Tips
 - Remember to update the closing tags when changing an element.
-- Push a commit for each task completed. Include a meaningfull commit message.
+- Push a commit for each task completed. Include a meaningful commit message.
 - Before the above, update the readme task list to track your progress. To do this, enter x between the brackets.
 - Get used to using your browser's developer tools now. For now, become familiar with: 
     - Using inspector mode to inspect elements.
